@@ -1,3 +1,6 @@
 ---
-title: Welcome to my blog!
----
+<b>Mapping Vulnerability to Flooding of Community-Development Corporations (CDCs) Affordable Housing Properties in Central and East Harlem, New York City</b> 
+
+In 2018, I was approached by Hope Property Management Department Services and Ascendant Neighborhood Development to co-develop a framing and methodology to map the affordable housing units exposed to flooding due to sea level rise today and in the future. Hope Property Management Department Services and Ascendant Neighborhood Development are two Community Development Corporations (CDCs) owning and maintaining a key source of the affordable housing stock in New York City.
+
+A poster version of the project was presented at the 10 Years of the New York Panel of Climate Change, at the Academy of the Sciences of New York City on March 15, 2019.
