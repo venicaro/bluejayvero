@@ -1,4 +1,3 @@
-<b>Unpublished research work</b> 
 ---
 <b>"Mapping the Vulnerability to Flooding of Community-Development Corporations (CDCs) Affordable Housing Properties in Central and East Harlem, New York City"</b>
 
