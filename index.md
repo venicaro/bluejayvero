@@ -8,5 +8,5 @@ description: In 2018, together with members from HOPE and Ascendant - two Commun
 
 title: <b>"Insights and Critical Questions for Community-driven Planned Relocation"</b>
 
-description: this is document was produced as background for ‘Relocation and Resilience: Climate-Related Displacement in the Thessalian Plain’
+description: This is document was finalized on September 2025 as background for the ongoing project called <a href="https://zolberginstitute.org/faculty-research-metamorphosis-village-relocation-unravelling-imaginaries-of-the-thessalian-plain-through-the-lens-of-climate-displacement/">Relocation and Resilience: Climate-Related Displacement in the Thessalian Plain</a>
 [Lit_review_Relocation and Resilience_v2.docx](https://github.com/user-attachments/files/28458032/Lit_review_Relocation.and.Resilience_v2.docx)
