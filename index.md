@@ -6,4 +6,4 @@ Read it here: [Olivotto-Almonte_2018.pdf](https://github.com/user-attachments/fi
 <b>2. "Insights and Critical Questions for Community-driven Planned Relocation"</b>
 
 Description: This is document was finalized on September 2025 as background for the ongoing project called <a href="https://zolberginstitute.org/faculty-research-metamorphosis-village-relocation-unravelling-imaginaries-of-the-thessalian-plain-through-the-lens-of-climate-displacement/">Relocation and Resilience: Climate-Related Displacement in the Thessalian Plain</a>. 
-Read it here:[Lit_review_Relocation and Resilience_v2.docx](https://github.com/user-attachments/files/28458032/Lit_review_Relocation.and.Resilience_v2.docx)
+Read it here: [Lit_review_Relocation and Resilience_v2.docx](https://github.com/user-attachments/files/28458032/Lit_review_Relocation.and.Resilience_v2.docx)
