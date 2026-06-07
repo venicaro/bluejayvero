@@ -1,5 +1,5 @@
-<b>1. Poster of my PhD work "Senses of Justice and Community Visioning at the Edge of Sea". 
-FInd it here: [PhD_Poster_02_03_25.pdf](https://github.com/user-attachments/files/28686364/PhD_Poster_02_03_25.pdf)
+<b>1. Poster of my PhD work "Senses of Justice and Community Visioning at the Edge of Sea".</b> 
+[PhD_Poster_02_03_25.pdf](https://github.com/user-attachments/files/28686364/PhD_Poster_02_03_25.pdf)
 
 <b>2. Mapping the Vulnerability to Flooding of Community-Development Corporations (CDCs) Affordable Housing Properties in Central and East Harlem, New York City.</b>
 
